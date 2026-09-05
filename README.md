@@ -13,6 +13,6 @@ Hi there 👋<br>Passionate about building scalable and efficient applications, 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetsharma&layout=compact&count_private=true&theme=blue-green" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=puneetsharma&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=puneeetsharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
